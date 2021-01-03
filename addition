@@ -1,4 +1,8 @@
-int a, b, c
+int a, b, c, d
 read a, b
 c=a+b;
 print " the sum is ", c
+// work on subtraction based on the change proposed by client
+d=a-b
+print " the outcome after subtraction is " d
+
